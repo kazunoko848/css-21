@@ -12,6 +12,7 @@
   list-style: none;
 }
 li {
+  width: 100px;
   display: inline-block;
 }
 .grid {
